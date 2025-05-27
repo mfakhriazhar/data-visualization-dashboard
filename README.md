@@ -29,4 +29,4 @@ Tableau Public : https://public.tableau.com/views/SeattleAirbnbDashboardProject_
 
 If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
 
-##DataVisualization #TableauDashboard #AirbnbAnalysis #SeattleData #DataAnalytics #TableauPublic #DataViz #BusinessIntelligence #DashboardDesign #DataStorytelling #OpenData #DataProject #AnalisisData #DataAnalystPortfolio
+#DataVisualization #TableauDashboard #AirbnbAnalysis #SeattleData #DataAnalytics #TableauPublic #DataViz #BusinessIntelligence #DashboardDesign #DataStorytelling #OpenData #DataProject #AnalisisData #DataAnalystPortfolio
