@@ -9,8 +9,8 @@ This repository contains a data visualization project that explores Airbnb listi
 - Yearly Revenue Trend Analysis
 
 ## Dataset
-Source : https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
-Upd to date Data : https://insideairbnb.com/get-the-data/  
+Source : https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset  
+Up to date Data : https://insideairbnb.com/get-the-data/  
 
 ## Live Dashboard :
 Tableau Public : https://public.tableau.com/views/SeattleAirbnbDashboardProject_17477091507170/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
@@ -27,4 +27,6 @@ Tableau Public : https://public.tableau.com/views/SeattleAirbnbDashboardProject_
 - All visuals were created for learning purposes.
 - The dataset used is publicly available and has been preprocessed for visualization.
 
+If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
 
+##DataVisualization #TableauDashboard #AirbnbAnalysis #SeattleData #DataAnalytics #TableauPublic #DataViz #BusinessIntelligence #DashboardDesign #DataStorytelling #OpenData #DataProject #AnalisisData #DataAnalystPortfolio
